@@ -1,6 +1,4 @@
-Here’s your **README.md** content in a copy-paste-friendly format:  
 
-```md
 # Uber Clone
 
 ## 🚀 Project Overview
